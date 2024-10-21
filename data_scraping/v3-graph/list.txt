@@ -1,0 +1,57 @@
+http://www.wikidata.org/entity/Q116184543,978-1-61383-265-3,'Salem's Lot,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411469,978-1-4516-2728-2,11/22/63,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411058,978-0-684-85350-5,Bag of Bones,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411185,978-0-7432-9233-7,Cell,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60410995,978-0-670-22026-7,Christine,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411688,978-0-670-86836-0,Desperation,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411210,978-0-670-27266-2,Different Seasons,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58879406,978-0-7432-1138-3,Dreamcatcher,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58876944,978-1-4165-5251-2,Duma Key,Stephen King, Q39829
+http://www.wikidata.org/entity/Q56044580,978-1-5011-8098-9,The Outsider (hardback),Stephen King, Q39829
+http://www.wikidata.org/entity/Q58848030,978-0-670-84650-4,Gerald's Game,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411519,978-0-684-85351-2,Hearts in Atlantis,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58876946,978-0-670-85503-2,Insomnia,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411764,978-0-7432-8941-2,Lisey's Story,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58879580,978-0-670-83953-7,Needful Things,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58879302,978-0-385-18244-7,Pet Sematary,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411178,978-0-670-85869-9,Rose Madder,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58847805,978-0-8439-5584-2,The Colorado Kid,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58879459,978-0-670-82982-8,The Dark Half,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58881397,978-1-880418-38-3,Wizard and Glass,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58847811,978-0-670-26077-5,The Dead Zone,Stephen King, Q39829
+http://www.wikidata.org/entity/Q70469474,978-0-451-11508-9,The Running Man,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60411205,978-0-385-12167-5,The Shining,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58847860,978-0-385-12168-2,The Stand,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58847817,978-0-399-13314-5,The Tommyknockers,Stephen King, Q39829
+http://www.wikidata.org/entity/Q58848868,978-1-4391-4850-1,Under the Dome,Stephen King, Q39829
+http://www.wikidata.org/entity/Q60414833,978-1-4231-4060-3,The Mark of Athena,Rick Riordan, Q212727
+http://www.wikidata.org/entity/Q60412170,978-1-4231-4059-7,The Son of Neptune,Rick Riordan, Q212727
+http://www.wikidata.org/entity/Q27981360,978-1-4088-5568-3,Harry Potter and the Goblet of Fire,J. K. Rowling, Q34660
+http://www.wikidata.org/entity/Q60488169,978-0-316-22853-4,The Casual Vacancy,J. K. Rowling, Q34660
+http://www.wikidata.org/entity/Q59350853,978-0-00-752292-7,The Return of the King (2013 HarperCollins ed.),J. R. R. Tolkien, Q892
+http://www.wikidata.org/entity/Q58848844,978-0-679-44648-4,Airframe,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q60417273,978-0-394-47987-3,Binary,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q58883501,978-0-00-715379-4,Prey,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q60412516,978-0-394-58942-8,Rising Sun,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q58951884,978-0-394-49401-2,The Great Train Robbery,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q58879408,978-0-679-41946-4,The Lost World,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q60412690,978-0-394-44768-1,The Terminal Man,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q60411490,978-0-679-44481-7,Timeline,Michael Crichton, Q172140
+http://www.wikidata.org/entity/Q60414318,978-0-575-04906-2,The Ghost from the Grand Banks,Arther C. Clark, Q47087
+http://www.wikidata.org/entity/Q70469944,978-0-553-80147-7,A Dance with Dragons,George R. R. Martin, Q181677
+http://www.wikidata.org/entity/Q60416543,978-0-670-02241-0,A Discovery of Witches,Deborah Harkness, Q2541295
+http://www.wikidata.org/entity/Q60412700,978-0-385-61432-0,Once Upon a Time in the North,Philip Pullman, Q190220
+http://www.wikidata.org/entity/Q60412590,978-0-19-271543-2,The Ruby in the Smoke,Philip Pullman, Q190220
+http://www.wikidata.org/entity/Q60411276,978-1-4165-4997-0,The Broken Window,Jeffery Deaver, Q358188
+http://www.wikidata.org/entity/Q58950216,978-0-385-60736-0,A Hat Full of Sky,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60411830,978-0-385-40992-6,Carpe Jugulum,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60411342,978-0-385-60342-3,Going Postal,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q58883773,978-0-575-05800-2,Interesting Times,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60412310,978-0-385-60533-5,The Wee Free Men,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q58847838,978-0-385-60867-1,Thud!,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60413110,978-0-385-60934-0,Unseen Academicals,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60412930,978-0-385-60984-5,Wintersmith,Terry Pratchett, Q46248
+http://www.wikidata.org/entity/Q60413218,978-0-439-92550-1,Alcatraz Versus the Evil Librarians,Brandon Sanderson, Q457608
+http://www.wikidata.org/entity/Q60416871,978-0-439-92553-2,Alcatraz Versus the Scrivener's Bones,Brandon Sanderson, Q457608
+http://www.wikidata.org/entity/Q60416867,978-0-439-92557-0,Alcatraz Versus the Shattered Lens,Brandon Sanderson, Q457608
+http://www.wikidata.org/entity/Q60412914,978-0-7653-1177-1,Elantris,Brandon Sanderson, Q457608
